@@ -13,7 +13,7 @@
 
 #### :hammer_and_wrench: LANGUAGES & TOOLS :
 
-<div align="left">
+<div align="center">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
@@ -48,10 +48,9 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 " alt="Facebook Badge" />
   </a>&nbsp;
-  https://twitter.com/Pooya_jahed
+  
    <a href="https://twitter.com/Pooya_jahed">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2
-" alt="Twitter Badge" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
   <a href="https://www.instagram.com/mrdebonairfox">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
