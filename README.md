@@ -44,12 +44,12 @@
   <a href="https://www.linkedin.com/in/kdbrand">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="https://twitter.com/Pooya_jahed">
+  <a href="https://www.facebook.com/profile.php?id=100094244876859">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-" alt="Twitter Badge" />
+" alt="Facebook Badge" />
   </a>&nbsp;
    <a href="https://twitter.com/Pooya_jahed">
-    <img src="https://img.shields.io/badge/:badgeContent?logo=https%3A%2F%2Fcdn.cdnlogo.com%2Flogos%2Ff%2F84%2Ffacebook.svg&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100094244876859
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2
 " alt="Twitter Badge" />
   </a>&nbsp;
   <a href="https://www.instagram.com/mrdebonairfox">
