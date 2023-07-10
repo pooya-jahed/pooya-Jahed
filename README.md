@@ -41,26 +41,23 @@
 
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/kdbrand">
+  <a href="https://www.linkedin.com/in/pooya-jahed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100094244876859">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-" alt="Facebook Badge" />
+   <a href="https://www.facebook.com/profile.php?id=100094244876859">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge" />
   </a>&nbsp;
-  
    <a href="https://twitter.com/Pooya_jahed">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/mrdebonairfox">
+  <a href="https://www.instagram.com/e3an3.dev">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
   <a href="mailto:pooya-jahed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
-  </a>
-  <a href="https://leetcode.com/e3an3">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-" alt="LeetCode" />
+  </a><br>
+     <a href="https://leetcode.com/e3an3">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode Badge" />
   </a>&nbsp;
    <a href="https://www.codewars.com/users/e3an3">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge" />
