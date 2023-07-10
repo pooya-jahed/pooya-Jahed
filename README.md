@@ -48,6 +48,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 " alt="Facebook Badge" />
   </a>&nbsp;
+  https://twitter.com/Pooya_jahed
    <a href="https://twitter.com/Pooya_jahed">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2
 " alt="Twitter Badge" />
@@ -61,10 +62,10 @@
   <a href="https://leetcode.com/e3an3">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 " alt="LeetCode" />
-  </a>
+  </a>&nbsp;
    <a href="https://www.codewars.com/users/e3an3">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge" />
+  </a>&nbsp;
 
   <h2>Talk to you soon!</h2>
 </div>
