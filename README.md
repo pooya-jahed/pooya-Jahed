@@ -62,7 +62,11 @@
    <a href="https://www.codewars.com/users/e3an3">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge" />
   </a>&nbsp;
-
+  <hr>
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
   <h2>Talk to you soon!</h2>
 </div>
 
